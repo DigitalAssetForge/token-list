@@ -880,6 +880,16 @@
       "decimals": "3",
       "description": "SHFT",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/SHFT.PNG"
+    },
+    {
+      "id": "fb97aa631ee5cb71e0830dab162ee7b5dbec44ef029298da72c0f5542441a100",
+      "name": "SHFT",
+      "nameOnChain": "SHFT",
+      "symbol": "SHFT",
+      "symbolOnChain": "SHFT",
+      "decimals": 3,
+      "description": "SHFT",
+      "logoURI": "https://raw.githubusercontent.com/DigitalAssetForge/token-list/master/logos/SHFT.PNG"
     }
   ]
 }
