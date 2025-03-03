@@ -1718,6 +1718,14 @@
       "decimals": 18,
       "description": "Alpha - the top wolf of meme coins. Unleash your inner pack leader with this howlingly meme-coin. Built for the bold, the brave, and the blockchain-savvy.",
       "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/ALPHA.png"
+    },
+    {
+      "id": "92c552aae63eff60c067cf3b593bf5899219873f51423ba42fb48b712b496400",
+      "name": "Maïlo",
+      "symbol": "MAILO",
+      "decimals": 18,
+      "description": "The bold younger brother of Loukaï and the second meme token on MyOnion.fun, Maïlo is a fearless guardian of Alephium, inspired by Maud Bannwart’s German Shepherd.",
+      "logoURI": "https://raw.githubusercontent.com/alephium/token-list/master/logos/MAILO.png"
     }
   ]
 }
